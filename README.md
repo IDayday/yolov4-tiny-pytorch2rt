@@ -1,2 +1,5 @@
-# yolov4-tiny-pytorch2rt
-Using tensorRT to accelerate inference rate on Jetson devices
+# Fork (early edition)
+https://github.com/bubbliiiing/yolov4-tiny-pytorch
+
+maybe **"2trt.py"** is what you need 
+I will write down this readme if I have time.
